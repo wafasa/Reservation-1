@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4081DA</color>
+    <color name="colorPrimaryDark">#316FC4</color>
+    <!--<color name="colorPrimary">#3F51B5</color> 4081DA
+    <color name="colorPrimaryDark">#303F9F</color> 3F6FC5-->
+    <color name="colorAccent">#FFFFFF</color>
+
+
+
+
+
+
+
+
+
+    <color name="black">#ff646464</color>
+    <color name="app_bg">#eeeeee</color>
+    <color name="white">#ffffffff</color>
+   <!-- <color name="tab_item_default">#fafafa</color>
+    <color name="tab_item_selected">#f0f1f2</color>
+    <color name="tab_text_selected">#f8597c</color>
+    <color name="tab_text_default">#bbbbbb</color>
+    <color name="background_color">#fbfbfb</color>
+    <color name="title_text_color">#ffffff</color>-->
+
+    <!-- 透明色 -->
+    <color name="settle_black_mark">#1A000000</color>
+
+    <!-- 分割线 -->
+    <color name="base_divide_line_color">#FFFFFFFF</color>
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="pstsIndicatorColor">#FFFFFFFF</color>
+    <color name="pstsUnderlineColor">#FFFFFFFF</color>
+    <color name="pstsDividerColor">#FFFFFFFF</color>
+    <color name="pstsTabBackground">@color/colorPrimary</color>
+
+
+
+
+   <!-- <attr name="pstsIndicatorHeight" format="dimension" />
+    <attr name="pstsUnderlineHeight" format="dimension" />
+    <attr name="pstsDividerPadding" format="dimension" />
+    <attr name="pstsTabPaddingLeftRight" format="dimension" />
+    <attr name="pstsScrollOffset" format="dimension" />
+    <attr name="pstsTabBackground" format="reference" />
+    <attr name="pstsShouldExpand" format="boolean" />
+    <attr name="pstsTextAllCaps" format="boolean" />-->
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jorge.circleview/circlelibrary/1.0.0/7edb51803984e1477511ec0792ded59362e45d4e/circlelibrary-1.0.0-sources.jar!/com/jorge/circlelibrary/ImageCycleView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs/universal-image-loader-1.9.2-with-sources.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/szy/reservation/activity/TestActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/szy/reservation/jpush/MyReceiver.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
